@@ -7,4 +7,3 @@ Esse repositório tem o objetivo de documentar o meu avanço nos estudos na ling
 - Plataforma: .NET
 - IDE: Visual Studio Community
 - Versionamento: Git e GitHub
-- 
